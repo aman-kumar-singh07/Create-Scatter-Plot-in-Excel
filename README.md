@@ -1,1 +1,3 @@
 # Create-Scatter-Plot-in-Excel
+
+https://bit.ly/HomeValuesAbove4000SqFtPleasanton_GDocs_4IK39L into a Scatter Plot for Multiple Data Sets. The successful result will have: A) A Single Scatter Plot Representing All Price Changes for each Home B) A Calculation Showing the Average Increase (Appreciation) or Decrease (Depreciation) for all Homes An Example of a Scatter Plot with Multiple Data Sets can be found here (https://www.youtube.com/watch?v=RBmVN4nY6Jo). Your experience may organize/present data in a more consumable way. We operate on a "dibs" system. Please either A) show past example of similar work or B) create a copy of the spreadsheet and show 1-2 data points.
